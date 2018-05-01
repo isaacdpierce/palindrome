@@ -1,8 +1,4 @@
-// reverses a string - because js does not have a reverse string built in method.
-// Reverses a string.
-// function reverse(string) {
-//   return Array.from(string).reverse().join("");
-// }
+module.exports = Phrase;
 
 // Adds `reverse` to all strings.
 String.prototype.reverse = function() {
