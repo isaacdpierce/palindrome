@@ -1,5 +1,5 @@
 {
-  "name": "isdpi-palindrome",
+  "name": "isdpi-palindrome-app",
   "version": "0.1.0",
   "description": "Palindrome detector",
   "main": "index.js",
@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/isaacdpierce/palindrome/issues"
   },
-  "homepage": "https://github.com/isaacdpierce/palindrome#readme"
+  "homepage": "https://github.com/isaacdpierce/palindrome#readme",
+  "dependencies": {
+    "isdpi-palindrome": "^0.1.0"
+  }
 }
