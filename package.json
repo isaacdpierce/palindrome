@@ -22,6 +22,8 @@
   },
   "homepage": "https://github.com/isaacdpierce/palindrome#readme",
   "dependencies": {
-    "isdpi-palindrome": "^0.1.0"
+    "isdpi-palindrome": "^0.1.0",
+    "jsdom": "^11.10.0",
+    "request": "^2.85.0"
   }
 }
